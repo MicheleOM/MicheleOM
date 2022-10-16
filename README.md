@@ -1,5 +1,7 @@
 
-## Bem-vindo(a) ao meu perfil
+## Oi! Meu nome e Michele!
+
+### Bem-vindo(a) ao meu perfil
 
 <div> 
 
@@ -7,19 +9,17 @@
  
 </div>
 
-
  <div>
  
    <a href="https://github.com/MicheleOM">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MicheleOM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleOM&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MicheleOM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleOM&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
  
- 
 <div> 
 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MicheleOM/MicheleOM/blob/output/github-contribution-grid-snake.svg)
 
 </div>
