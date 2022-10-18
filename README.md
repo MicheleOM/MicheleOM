@@ -1,7 +1,10 @@
-
 ## Oi! Meu nome e Michele!
-
 ### Bem-vindo(a) ao meu perfil
+
+Sou bacharel em Direito. Trabalho há mais de 10 anos em administração de condomínios.
+
+Apesar da minha formação e atual área de trabalho, minha afinidade sempre foi com tecnologia, e estou iniciando a transição profissional. Comecei pelo front-end, nas linguagens HTML, CSS e JavaScript, e estarei abrangindo meus conhecimentos conforme meus estudos avançarem.
+
 
 <div> 
 
@@ -12,8 +15,8 @@
  <div>
  
    <a href="https://github.com/MicheleOM">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MicheleOM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleOM&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MicheleOM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleOM&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
