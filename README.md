@@ -21,8 +21,6 @@ Comecei pelo front-end, nas linguagens HTML, CSS e JavaScript, e estarei abrangi
 <div>
 <br />
    <a href="https://github.com/MicheleOM">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MicheleOM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleOM&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
   
