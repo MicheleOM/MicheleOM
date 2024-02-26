@@ -1,4 +1,4 @@
-## Oi, meu nome e Michele.
+## Oi, meu nome é Michele.
 ### Sejam bem-vindos(as) ao meu perfil!
 
 Sou bacharel em Direito. Trabalhei por mais de 10 anos em administração de condomínios.
