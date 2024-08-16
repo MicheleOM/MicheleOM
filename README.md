@@ -7,10 +7,11 @@ Comecei pelo front-end, nas linguagens HTML, CSS, JavaScript, Python e SQL, e es
 Recentemente iniciei a graduação em <strong>Ciência da Computação</strong>.
 
 
-## Let´s connect
+## Let's connect
 <div> 
   <a href="https://www.linkedin.com/in/michele-de-oliveira-martins-569098142" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
 
