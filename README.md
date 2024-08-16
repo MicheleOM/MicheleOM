@@ -3,7 +3,7 @@
 
 Sou bacharel em Direito. Trabalhei por mais de 10 anos em administração de condomínios.
 Apesar da minha formação e área profissional, minha afinidade sempre foi com tecnologia, e estou iniciando a transição profissional. 
-Comecei pelo front-end, nas linguagens HTML, CSS e JavaScript, e estarei abrangindo meus conhecimentos conforme meus estudos avançarem.
+Comecei pelo front-end, nas linguagens HTML, CSS, JavaScript e Python, e estarei abrangindo meus conhecimentos conforme meus estudos avançarem.
 Recentemente iniciei a graduação em <strong>Ciência da Computação</strong>.
 
 
