@@ -3,13 +3,14 @@
 
 Sou bacharel em Direito. Trabalhei por mais de 10 anos em administração de condomínios.
 Apesar da minha formação e área profissional, minha afinidade sempre foi com tecnologia, e estou iniciando a transição profissional. 
-Comecei pelo front-end, nas linguagens HTML, CSS, JavaScript, Python e MySQL, e estarei abrangindo meus conhecimentos conforme meus estudos avançarem.
+Comecei pelo front-end, nas linguagens HTML, CSS, JavaScript, Python e SQL, e estarei abrangindo meus conhecimentos conforme meus estudos avançarem.
 Recentemente iniciei a graduação em <strong>Ciência da Computação</strong>.
 
 
 ## Let´s connect
 <div> 
-  <a href="https://www.linkedin.com/in/michele-de-oliveira-martins-569098142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/michele-de-oliveira-martins-569098142" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 
