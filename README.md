@@ -3,7 +3,7 @@
 
 Sou bacharel em Direito com mais de 10 anos de experiência em administração de condomínios. Apesar da minha trajetória profissional inicial, sempre tive uma paixão pela tecnologia, o que me levou a iniciar uma transição de carreira para o campo da programação e desenvolvimento.
 
-Estou expandindo meus conhecimentos em várias áreas da tecnologia, com experiência em linguagens como HTML, CSS, JavaScript, Python e SQL. Atualmente, estou no 3º período da graduação em <strong>Ciência da Computação</strong>, onde estou explorando diversos aspectos da computação para fortalecer minha base técnica.
+Estou expandindo meus conhecimentos em várias áreas da tecnologia, com experiência em linguagens como HTML, CSS, JavaScript, Python e SQL. Atualmente, estou finalizando o 2º período da graduação em <strong>Ciência da Computação</strong>, onde estou explorando diversos aspectos da computação para fortalecer minha base técnica.
 
 Este espaço é dedicado à minha jornada de aprendizado e aos projetos que estou desenvolvendo ao longo do caminho. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
