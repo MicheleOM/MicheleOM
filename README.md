@@ -1,14 +1,14 @@
 ## Oi, meu nome é Michele.
 ### Sejam bem-vindos(as) ao meu perfil!
 
-Sou bacharel em Direito com mais de 10 anos de experiência em administração de condomínios. Apesar da minha trajetória profissional inicial, sempre tive uma paixão pela tecnologia, o que me levou a iniciar uma transição de carreira para o campo da programação e desenvolvimento.
+Sou bacharel em Direito com experiência em administração de condomínios. Apesar da minha trajetória profissional inicial, sempre tive uma paixão pela tecnologia, o que me levou a iniciar uma transição de carreira para o campo da programação e desenvolvimento.
 
-Estou expandindo meus conhecimentos em várias áreas da tecnologia, com experiência em linguagens como HTML, CSS, JavaScript, Python e SQL. Atualmente, estou cursando o 3º período da graduação em <strong>Ciência da Computação</strong>, onde estou explorando diversos aspectos da computação para fortalecer minha base técnica.
+Estou expandindo meus conhecimentos em várias áreas da tecnologia. Atualmente, estou cursando o 3º período da graduação em <strong>Ciência da Computação</strong>, onde estou explorando diversos aspectos da computação para fortalecer minha base técnica.
 
 Este espaço é dedicado à minha jornada de aprendizado e aos projetos que estou desenvolvendo ao longo do caminho. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 
-## Let's connect
+## Conectar
 <div> 
   <a href="https://www.linkedin.com/in/michele-de-oliveira-martins-569098142" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
